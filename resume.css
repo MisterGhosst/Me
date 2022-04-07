@@ -41,6 +41,14 @@
 .Me {
     height: 250px;
     border-radius: 15px;
+    text-align: center;
+}
+
+#gocenter {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .pizza {
